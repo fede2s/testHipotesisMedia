@@ -6,8 +6,6 @@ from scipy.stats import norm
 
 os.system ("cls")
 
-##porcentaje=int(input("Ingrese porcentaje de intervalo de confianza: "))
-
 print("Test de hipótesis para la media de una población normal con desvío estándar conocido")
 print("Tambien sirve para aproximar poblaciones no normales con devío estándar conocido y n>=30\n")
 
